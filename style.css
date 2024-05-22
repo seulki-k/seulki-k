@@ -2,20 +2,109 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');
 
 body {
+    font-family: "Noto Sans KR", "Nanum Gothic";        /* 글꼴 - 웹 폰트 */
     max-width: 960px;    /* 최대 너비 */
     margin: auto;         /* 마진 auto - 내용을 화면 가운데 맞추기 위해  */
     font-family: "Noto Sans KR", "Nanum Gothic";        /* 글꼴 - 웹 폰트 */
     font-size:14px;     /* 글자 크기 */
 }
 
-h1 {
+#header {
+    text-align: center;
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px 0;
+}
+
+#header h1 {
     font-size: 3rem;    /* 글자 크기 */
     letter-spacing: 0.6rem;  /* 자간 */
     padding-top: 1rem;   /* 위쪽 패딩 */
     padding-bottom: 1rem;   /*  아래쪽 패딩 */
 }
 
-h2 {
+#header h2 {
     font-size: 1.5rem;
     padding-bottom: 1em;
 }
+
+#header hr {
+    width: 50%;
+    margin: 10px auto;
+    border: 1px solid #fff;
+}
+
+#mainLeft {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#mainLeft section {
+    margin-bottom: 20px;
+}
+
+#mainLeft a {
+    color: #4CAF50;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#mainLeft a:hover {
+    text-decoration: underline;
+}
+
+#mainLeft ul {
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+#mainLeft li {
+    margin: 10px 0;
+    line-height: 1.6;
+}
+
+#mainLeft p {
+    margin: 10px 0;
+    font-size: 1.1em;
+}
+
+#mainLeft i {
+    margin-right: 10px;
+    color: #4CAF50;
+}
+
+@media (max-width: 768px) {
+    #header h1 {
+        font-size: 2em;
+    }
+    
+    #mainLeft {
+        padding: 15px;
+    }
+    
+    #mainLeft p {
+        font-size: 1em;
+    }
+}
+
+@media (max-width: 480px) {
+    #header h1 {
+        font-size: 1.5em;
+    }
+    
+    #header hr {
+        width: 70%;
+    }
+    
+    #mainLeft {
+        padding: 10px;
+    }
+    
+    #mainLeft p {
+        font-size: 0.9em;
+    }
+}\
