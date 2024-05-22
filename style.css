@@ -87,6 +87,13 @@ body {
     color: #4CAF50;
 }
 
+#mainLeft i {
+    margin: 10px 0;
+    line-height: 1.6;
+    list-style: none;
+    color: #4CAF50;
+}
+
 #mainLeft p {
     margin: 10px 0;
     font-size: 1.1em;
