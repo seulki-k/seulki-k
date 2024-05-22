@@ -7,6 +7,7 @@ body {
     margin: auto;         /* 마진 auto - 내용을 화면 가운데 맞추기 위해  */
     font-family: "Noto Sans KR", "Nanum Gothic";        /* 글꼴 - 웹 폰트 */
     font-size:14px;     /* 글자 크기 */
+    letter-spacing: 1.2px;
 }
 
 #header {
@@ -36,7 +37,6 @@ body {
 
 #mainLeft {
     padding: 20px;
-    max-width: 800px;
     margin: 0 auto;
     background: white;
     border-radius: 8px;
@@ -45,6 +45,23 @@ body {
 
 #mainLeft section {
     margin-bottom: 20px;
+}
+
+#mainLeft .section-top {
+    font-size: 1.2rem;
+}
+
+#mainLeft .section-top a {
+    text-decoration: underline;
+}
+
+#mainLeft .section-main ul{
+    padding-left: 0;
+    font-size: 1.3rem;
+}
+
+#mainLeft .section-main li {
+    font-size: 1rem;
 }
 
 #mainLeft a {
@@ -60,11 +77,13 @@ body {
 #mainLeft ul {
     font-weight: bold;
     margin: 10px 0;
+    list-style: none;
 }
 
 #mainLeft li {
     margin: 10px 0;
     line-height: 1.6;
+    list-style: none;
     color: #4CAF50;
 }
 
@@ -73,9 +92,14 @@ body {
     font-size: 1.1em;
 }
 
-#mainLeft i {
+#mainLeft p i {
     margin-right: 10px;
     color: #4CAF50;
+}
+
+.contents {
+    padding: 0px 10px;
+    line-height: 18px;
 }
 
 @media (max-width: 768px) {
