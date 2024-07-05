@@ -1,6 +1,5 @@
 <div align="center">
 <img src="https://render.gitanimals.org/lines/seulki-k?pet-id=1" width="25%" height="150"/>
- <img src="https://render.gitanimals.org/lines/seulki-k?pet-id=2" width="25%" height="150"/>
 </div>
 
 
