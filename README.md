@@ -1,9 +1,6 @@
-<div align="center">
-<img src="https://render.gitanimals.org/lines/seulki-k?pet-id=1"
- img src="https://render.gitanimals.org/lines/seulki-k?pet-id=22"
- width="25%" height="150"/>
- 
-</div>
+<<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/seulki-k"/>
+</a>
 
 
 
