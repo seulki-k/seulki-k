@@ -1,19 +1,4 @@
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/seulki-k?pet-id=1" width=20% height="120"/>
-</a>
 
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/Bulgogi-Pizza?pet-id=596865399259950329" width=20% height="120"/>
-</a>
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/tkddn0321?pet-id=596929780182187504" width=20% height="120"/>
-</a>
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/ftfg777?pet-id=596642696921905694" width=20% height="120"/>
-</a>
 
 <a href="https://github.com/seulki-k">
   <img src="https://render.gitanimals.org/farms/seulki-k"/>
