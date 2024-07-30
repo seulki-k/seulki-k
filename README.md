@@ -1,5 +1,5 @@
 
-  ![header](https://capsule-render.vercel.app/api?type=Waving&descAlignY=51&fontAlignY=38&height=300&section=header&text=Blast%20Off%20into%20My%20Code%20%Galaxy!%20🚀&desc=안녕하세요%20배우고%20기여하고자%20하는%20개발자%강슬기&fontSize=40&color=gradient)
+  ![header](https://capsule-render.vercel.app/api?type=Waving&descAlignY=51&fontAlignY=38&height=300&section=header&text=Blast%20Off%20into%20My%20Code%20%Galaxy!%20🚀&desc=안녕하세요 꿈꾸는 개발자 강슬기입니다.&fontSize=40&color=gradient)
 </a>
 <a href="https://github.com/seulki-k">
   <img src="https://render.gitanimals.org/farms/seulki-k"/>
