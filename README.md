@@ -1,4 +1,6 @@
-https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=꿈꾸는%20개발자%20강슬기%20입니다.
+
+  ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=꿈꾸는%20개발자%20강슬기%20입니다.&fontColor=red&fontSize=50&fontAlign=52)
+
 </a>
 </a>
 </a>
