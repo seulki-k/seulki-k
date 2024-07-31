@@ -1,4 +1,4 @@
-[![MasterHead](https://giphy.com/gifs/pudgypenguins-pudgy-penguin-pudgypenguin-Yfl7CS7vQqnebA69aH)]()
+[![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG5id2EyOG1mazJ4dzZnMGpiZjVmamxmNDY5cWlnMmpveTdqZ3c0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yfl7CS7vQqnebA69aH/giphy.webp)]()
 
 </a>
 </a>
