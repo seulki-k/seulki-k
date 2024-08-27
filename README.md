@@ -8,8 +8,8 @@
 </a>
 
 
-## 🌐 Socials:
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?&logo=notion&logoColor=white)](https://halved-number-b57.notion.site/58bd900e535141fd913b624e667fca62)
+// ## 🌐 Socials:
+// [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?&logo=notion&logoColor=white)](https://halved-number-b57.notion.site/58bd900e535141fd913b624e667fca62)
 
 # 💻 Tech Stack:
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)   ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)	![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
